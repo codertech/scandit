@@ -1,0 +1,4 @@
+scandit
+=======
+
+scandit phonegap working
